@@ -10,7 +10,7 @@ public class ObjectVarsAsParameters
 		System.out.println("In method go. r1 " + r1 + "\n");
 		// could have been 
 		//System.out.prinltn("r1" + r1.toString());
-		r1.setSize(10, 15);
+		r1.setSize(10, dfk
 		System.out.println("In method go. r1 " + r1 + "\n");
 		alterPointee(r1);
 		System.out.println("In method go. r1 " + r1 + "\n");
